@@ -1,0 +1,14 @@
+# Dev build
+build/
+tmp/
+
+# Test
+*.out
+
+# Environment variables
+.env
+
+# IDE files
+.vscode
+.DS_Store
+.idea
